@@ -1,0 +1,3 @@
+defaults
+ios >= 12
+android >= 5
